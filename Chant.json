@@ -1,0 +1,21 @@
+{
+  "Author": "GitHixy",
+  "Name": "Chant",
+  "Punchline": "A castbar that tells you when you can move, in the shape you like.",
+  "InternalName": "Chant",
+  "Description": "Chant replaces Final Fantasy XIV's cast bar with one built to be read at a glance: when you can start moving, when you can queue your next action, and what kind of spell you're casting.\n\nWHAT YOU GET\n\n- A slidecast window you can't miss: the bar stays red while moving would cancel your cast, and turns the moment it's safe to go.\n- A get-ready phase just before that, and a warning if you start moving too early.\n- The queue window marked on the bar, with the icon of the action you've already queued.\n- Your spell's icon and name, coloured by what it does: damage, healing, raises, support and everything else.\n- Seven built-in presets in different shapes: horizontal and vertical bars, rings and arcs, on screen or following your character. Every size, colour and piece of text can be tuned, with a live preview.\n- When a cast does get cancelled, Chant tells you how early you moved, and keeps a tally of your slidecasts.\n- Party raise watch: see when another healer is already raising someone.\n\nGETTING STARTED\n\nType /chant to open the settings and pick a preset. /chant test plays sample casts so you can try every look without a fight.\nFound a bug or have an idea? Settings > Diagnostics copies a report and opens a GitHub issue for you, or come and talk about it on Discord: https://discord.gg/9kjUjWDBkJ\n\nPLAYS BY THE RULES\n\nChant is purely visual: it reads the cast information the game already shows you and draws over the screen. It never casts, queues or moves anything for you, and it switches itself off in PvP. Settings and presets are stored locally and nothing is ever uploaded.",
+  "ApplicableVersion": "any",
+  "LoadPriority": 0,
+  "CanUnloadAsync": false,
+  "RepoUrl": "https://github.com/GitHixy/Chant",
+  "Tags": [
+    "castbar",
+    "cast",
+    "slidecast",
+    "queue",
+    "gcd",
+    "ui",
+    "presets",
+    "healer"
+  ]
+}
