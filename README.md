@@ -8,6 +8,7 @@
 
 A [Dalamud](https://github.com/goatcorp/Dalamud) plugin for Final Fantasy XIV that replaces the game's cast bar with one built to be read at a glance: red while moving would cancel your cast, a flash the moment it's safe to go, and your next action already lined up beside it. Pick a bar, a ring, an arc or a gauge beside your character, then make it your own.
 
+[![Website](https://img.shields.io/badge/Website-githixypluginffxiv.vercel.app-D6B068?logo=googlechrome&logoColor=white)](https://githixypluginffxiv.vercel.app/plugins/chant)
 [![Patreon](https://img.shields.io/badge/Patreon-Support%20me-FF424D?logo=patreon&logoColor=white)](https://www.patreon.com/GitHixy)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/9kjUjWDBkJ)
 
